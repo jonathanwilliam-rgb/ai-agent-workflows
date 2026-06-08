@@ -1,2 +1,11 @@
-# ai-agent-workflows
-AI agent automation workflows, configurations, and integration examples.
+# AI Agent Workflows
+
+Collection of AI agent workflows, automation concepts, and integration examples.
+
+## Topics
+
+- Agent Workflows
+- Task Automation
+- Prompt Engineering
+- Workflow Design
+- AI Integration
